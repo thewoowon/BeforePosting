@@ -112,7 +112,6 @@ namespace Terret
             charArray1.CopyTo(charArray6, 0);
             charArray1.CopyTo(charArray7, 0);
 
-            charArray1.CopyTo()
 
             object charArray5 = charArray1.Clone();
 
