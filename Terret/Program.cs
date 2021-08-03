@@ -138,6 +138,7 @@ namespace Terret
             char[,] TwoDimention = new char[10, 3];
             
             char[,,] ThreeDimension = new char[10, 3, 7];
+            //첫번째 커밋
 
         }
     }

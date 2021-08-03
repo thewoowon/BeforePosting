@@ -1,6 +1,8 @@
 ﻿#include <stdio.h>
 #include "cursor.h"
 
+
+//랜덤 게임
 class RandNum
 {
 public:
