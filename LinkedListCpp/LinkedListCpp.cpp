@@ -11,7 +11,6 @@ int main()
 {
 	struct NODE* head = (struct NODE*)malloc(sizeof(struct NODE));
 
-
 	struct NODE* node1 = (struct NODE*)malloc(sizeof(struct NODE));
 	head->next = node1;
 	node1->data = 10;
