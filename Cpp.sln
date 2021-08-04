@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProgressList.cs", "Progress
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Printer", "Printer\Printer.csproj", "{1D12F30B-2676-4560-AE9F-5EA8672DDE7D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truck", "Truck\Truck.csproj", "{95A1C508-4D58-4E64-90C7-89968A9E38D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,18 @@ Global
 		{1D12F30B-2676-4560-AE9F-5EA8672DDE7D}.Release|x64.Build.0 = Release|Any CPU
 		{1D12F30B-2676-4560-AE9F-5EA8672DDE7D}.Release|x86.ActiveCfg = Release|Any CPU
 		{1D12F30B-2676-4560-AE9F-5EA8672DDE7D}.Release|x86.Build.0 = Release|Any CPU
+		{95A1C508-4D58-4E64-90C7-89968A9E38D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A1C508-4D58-4E64-90C7-89968A9E38D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A1C508-4D58-4E64-90C7-89968A9E38D8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{95A1C508-4D58-4E64-90C7-89968A9E38D8}.Debug|x64.Build.0 = Debug|Any CPU
+		{95A1C508-4D58-4E64-90C7-89968A9E38D8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{95A1C508-4D58-4E64-90C7-89968A9E38D8}.Debug|x86.Build.0 = Debug|Any CPU
+		{95A1C508-4D58-4E64-90C7-89968A9E38D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A1C508-4D58-4E64-90C7-89968A9E38D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A1C508-4D58-4E64-90C7-89968A9E38D8}.Release|x64.ActiveCfg = Release|Any CPU
+		{95A1C508-4D58-4E64-90C7-89968A9E38D8}.Release|x64.Build.0 = Release|Any CPU
+		{95A1C508-4D58-4E64-90C7-89968A9E38D8}.Release|x86.ActiveCfg = Release|Any CPU
+		{95A1C508-4D58-4E64-90C7-89968A9E38D8}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
