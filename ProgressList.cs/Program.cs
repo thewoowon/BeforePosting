@@ -29,27 +29,7 @@ namespace ProgressList.cs
                     }
                 }
 
-                int nowBig = calsTemp[0];
-                int count = 1;
-
-                for (int i = 1; i < calsTemp.ToArray().Length; i++)
-                {
-                    if (nowBig >= calsTemp[i])
-                    {
-                        count++;
-                    }
-                    else
-                    {
-                        answer.Add(count);
-                        nowBig = calsTemp[i];
-                        count = 1;
-                    }
-
-                    if (i == calsTemp.ToArray().Length-1)
-                    {
-                        answer.Add(count);
-                    }
-                }
+                
 
                 return answer.ToArray();
             }

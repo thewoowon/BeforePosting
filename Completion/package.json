@@ -1,0 +1,9 @@
+{
+  "name": "completion",
+  "version": "0.0.0",
+  "description": "Completion",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
